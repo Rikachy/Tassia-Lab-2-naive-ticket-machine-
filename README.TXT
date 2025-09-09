@@ -132,6 +132,47 @@ public Pet(String petsName)
 Question 22.
 public Date(string month, string day, string year)
 
+Question 23. 
+The header and the body of the getBalance has the word Balance, while getPrice, has 
+the word Price in its header/body.
+
+Question 24. 
+How much money is already in the machine?
+
+Question 25.
+No, the body doens't need to change its name for it to compile. 
+It means that the accessor method and the field don't necessary have to match.
+//but it could be confusing if they don't
+
+Question 27.
+It says "missing return statement".
+
+Question 28. 
+The main difference is that the getPrice and printTicket all mention a 
+return type. Ex. void, int. However, the TicketMachine class doesn't have that.
+
+Question 29. 
+No they don't have return statements, I believe it's because they are constructors 
+placed at the end. 
+
+Question 31.
+
+score = score + points;
+
+return score;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

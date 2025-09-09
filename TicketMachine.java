@@ -46,6 +46,15 @@ public class TicketMachine
     {
         return balance;
     }
+    
+    /**
+     * Return the value of the total field
+     * next ticket.
+     */
+    public int getTotal()
+    {
+        return total;
+    }
 
     /**
      * Receive an amount of money from a customer.
