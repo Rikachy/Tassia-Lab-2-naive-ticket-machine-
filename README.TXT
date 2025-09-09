@@ -51,4 +51,74 @@ Public class LabClass {
 
 }
 
+Question 7.
+The error message that I recieve says " class, interface, enum, or record 
+expected". In my opinion, this does not explain well the problem, because it
+doesn't state the problem in a complete english sentence. 
+
+Question 8.
+It is possible to compile without the word "public"
+
+Question 9.
+It is not possible to compile without the word "class"
+
+Question 10. List of fields, constructor, methods
+fields
+private int price;
+private int balance;
+private int total;
+Constructor
+public TicketMachine(int cost)
+    {
+        price = cost;
+        balance = 0;
+        total = 0;
+    }
+Methods
+ public int getPrice()
+    {
+        return price;
+    }
+ public int getBalance()
+    {
+        return balance;
+    }
+ public void insertMoney(int amount)
+    {
+        balance = balance + amount;
+    }
+public void printTicket()
+    { ...
+    }
+    
+Question 11.
+It has the name of the class.
+It has no return type.
+
+Question 12. 
+private int count; - Int
+private Student representative; - string
+private Server host; - string
+
+Question 13. 
+alive
+Person tutor
+Game game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
