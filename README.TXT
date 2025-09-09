@@ -105,6 +105,54 @@ alive
 Person tutor
 Game game
 
+Question 14. 
+Skipped
+
+Question 17.
+private int status;
+
+Question 18.
+Student
+
+Question 19.
+There are 2 parameters. A string and a double
+
+Question 20. 
+Yes, the values of the constructor's parameter will need to be stored somewhere 
+persistant. In the "Book" class, it is likely to find integers integers and strings
+,maybe even doubles or characters. The names of the fields are up for the programmer
+to decide, so we can't know for sure. 
+
+Question 21.
+public Pet(String petsName) 
+{ 
+    Bob = petsName;
+}
+
+Question 22.
+public Date(string month, string day, string year)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
