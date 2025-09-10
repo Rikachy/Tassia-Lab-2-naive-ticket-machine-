@@ -161,11 +161,38 @@ score = score + points;
 
 return score;
 
+Question 32. 
+The addCredits method is a mutator, bexause it changes the value of the field, credit.
+
+Question 33.
+{
+    price -= amount;     //or price = price - amount
+}
+
+Question 34. 
+public void setAge(int currentAge){
+   age = currentAge; 
+    
+}
+
+Question 35.
+
+private boolean setStatus (boolean alive){
+    
+}if //I don't know
 
 
+Question 36.
+When I inspect the price stays as $0.
 
+Question 37.
+My cat has green eyes.
 
+Question 39.
+Instead of giving out the value of price, it would print out the word "price"
 
+Question 40.
+It would print out the phrase "# price cents." every single time, no matter the price.
 
 
 
