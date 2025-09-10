@@ -194,8 +194,21 @@ Instead of giving out the value of price, it would print out the word "price"
 Question 40.
 It would print out the phrase "# price cents." every single time, no matter the price.
 
+Question 42.
+They show different outputs. They show the price of the object I called. So 
+the ticketMachine priced at 10 cents would show me 10 cents, the 30 cents would show
+30 cents.
 
 
+Question 43. 
+skipped it shows errors when I try to put System.out.printf(“# %d cents.%n”, price);
+
+
+Question 44.
+It no longer asks for a price when you construct a new ticketMachine. 
+
+Question 46. 
+The empty method is a mutator because it changes the data. Resets the total to 0.
 
 
 
